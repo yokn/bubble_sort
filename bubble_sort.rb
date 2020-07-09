@@ -11,7 +11,6 @@
 #       Copy their values to the results array
 #     If the last char is reached:
 #       Reduce the array length by one
-#   while index < user_array_length
 # Print the results array
 
 def bubble_sort(user_array)
